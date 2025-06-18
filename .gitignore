@@ -1,0 +1,29 @@
+# Carpeta de salida de compilación
+target/
+
+# Archivos de IDE (Eclipse, IntelliJ, NetBeans)
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Archivos de paquetes
+*.jar
+*.war
+
+# Archivos de configuración
+*.properties
+*.xml
